@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fire
   - Environment
+  - Waypoint
   layers:
   - Default
   - TransparentFX
